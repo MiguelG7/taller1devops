@@ -1,4 +1,4 @@
-# DevOps Workshop
+# DevOps Workshop.
 
 This is a repository for the DevOps Workshop. It contains a simple Node.js application for demonstration purposes. The application is a simple web server that listens on port 3000 and returns a "Hello, World!" message. The application also contains a simple test suite that uses Jest. The aim of this repository is to demonstrate the basic concepts of DevOps, such as version control, branching strategies and CI/CD.
 
